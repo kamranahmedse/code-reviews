@@ -18,7 +18,7 @@
   
 </div>
 
-Code reviews are one of the key aspects of shipping quality software. They are essential for maintaining code quality, identifying bugs and errors, and ensuring that code is secure and maintainable. They not only help catch errors and improve code quality, but they also help to spread knowledge among the team members, foster a culture of collaboration and continuous improvement, and ensure that the software meets the expectations of end-users.
+Code reviews are one of the key aspects of shipping quality software. They are essential for maintaining code quality, identifying bugs and errors, and ensuring that code is secure and maintainable. They not only help catch errors and improve code quality, but they also help spread knowledge among the team members, foster a culture of collaboration and continuous improvement, and ensure that the software meets the expectations.
 
 <br>
 
