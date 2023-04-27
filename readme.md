@@ -22,14 +22,13 @@ Code reviews are one of the key aspects of shipping quality software. They are e
 
 <br>
 
-- [Team Wide Practices — Everyone](#team-wide-practices)
-- [During the Development — Author](#during-the-development-author)
-- [After the Development — Author](#after-the-development-author)
-- [Before you Start Reviewing — Reviewer](#before-you-start-reviewing-reviewer)
-- [During Code Review — Reviewer](#during-code-review-reviewer)
-- [After the Code Review — Author](#after-the-code-review-author)
-- [After the Code Review — Reviewer](#after-the-code-review-reviewer)
-- [After Approval — Author/Reviewer](#after-approval-author--reviewer)
+- [Team Wide Practices](#team-wide-practices)
+- [During the Development](#during-the-development-author)
+- [After the Development](#after-the-development-author)
+- [Before you Start Reviewing](#before-you-start-reviewing-reviewer)
+- [During Code Review](#during-code-review-reviewer)
+- [After the Code Review](#after-the-code-review-author)
+- [After the Approval](#after-approval-author--reviewer)
 
 <br>
 
