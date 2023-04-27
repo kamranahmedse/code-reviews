@@ -133,4 +133,4 @@ Code reviews are one of the key aspects of shipping quality software. They are e
 
 ## License
 
-[![License: CC BY 1.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/1.0/)
+[![License: CC BY 1.0](https://img.shields.io/badge/License-CC%20BY%201.0-lightgrey.svg)](https://creativecommons.org/licenses/by/1.0/)
