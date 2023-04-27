@@ -31,6 +31,9 @@ Code reviews are one of the key aspects of shipping quality software. They are e
 - [After the Code Review — Reviewer](#after-the-code-review-reviewer)
 - [After Approval — Author/Reviewer](#after-approval-author--reviewer)
 
+<br>
+
+> Visit the [interactive version of this list](https://roadmap.sh/best-practices/code-review) with further details for each.
 
 <br>
 
@@ -127,3 +130,7 @@ Code reviews are one of the key aspects of shipping quality software. They are e
 - [ ] Verify that the code change is functioning as expected in the production environment.
 - [ ] Monitor the performance and functionality of the code change and address any issues that arise.
 - [ ] Celebrate the successful completion of the code change!
+
+## License
+
+[![License: CC BY 1.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/1.0/)
